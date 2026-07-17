@@ -33,18 +33,18 @@ author:
   email            : "ac47694@uga.edu" 
 
   # Academic websites
-  academia         : 
-  arxiv            : 
-  googlescholar    : 
-  inspire-hep      : 
-  impactstory      :
-  orcid            : 
-  semantic         : 
-  ssrn             : 
-  pubmed           : 
-  researchgate     : 
-  scopus           : 
-  zotero           : 
+  #academia         : 
+  #arxiv            : 
+  #googlescholar    : 
+  #inspire-hep      : 
+  #impactstory      :
+  #orcid            : 
+  #semantic         : 
+  #ssrn             : 
+  #pubmed           : 
+  #researchgate     : 
+  #scopus           : 
+  #zotero           : 
 
 
   # Repositories and software development
