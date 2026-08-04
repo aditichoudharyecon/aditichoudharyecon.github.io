@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Aditi Choudhary"
 title_separator          : "-"
 name                     : &name "Aditi Choudhary"
-description              : &description "PhD Candidate in Economics at University of Georgia"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "PhD Candidate in Economics at the University of Georgia"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : "https://aditichoudharyecon.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -54,7 +54,7 @@ author:
   github           : "aditichoudharyecon"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
-
+  linkedin         : "aditichoudharyuga"
   # Social media
   artstation       : # Username
   #bluesky         : 
