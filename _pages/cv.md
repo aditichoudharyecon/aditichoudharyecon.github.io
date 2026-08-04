@@ -5,8 +5,6 @@ permalink: /cv/
 author_profile: true
 ---
 
-*You can also [download my CV as a PDF](/files/CV.pdf).*
-
 ## Education
 - **Ph.D. in Economics**, University of Georgia, Athens, GA (Expected 2027)
 - **M.A. in Economics**, McGill University, Montreal, QC
