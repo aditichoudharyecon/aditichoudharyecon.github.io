@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Instructor of Record
-- **ECON 2106: Principles of Microeconomics**, University of Georgia (2025) — [Syllabus](/files/Aditi_Econ_2106_Syllabus.pdf) [Teaching Evaluations](/files/Student_Evaluations_Summary.pdf)
+- **ECON 2106: Principles of Microeconomics**, University of Georgia (2025) — <a href="/files/Aditi_Econ_2106_Syllabus.pdf" target="_blank">Syllabus</a> <a href="/files/Student_Evaluations_Summary.pdf" target="_blank">Teaching Evaluations</a>
 
 ## Teaching Assistantships
 - **ECON 4200: Economic Growth and Development**, University of Georgia (2022, 2023, 2025, 2026)
