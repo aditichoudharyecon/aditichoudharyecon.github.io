@@ -1,13 +1,10 @@
-
-
-
-
 ---
 layout: single
 title: "Research"
 permalink: /publications/
 author_profile: true
 ---
+
 ## Research Interests
 Development Economics, Labor Economics, Law and Economics
 
