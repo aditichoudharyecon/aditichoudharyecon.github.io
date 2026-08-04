@@ -5,9 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Research Interests
-Development Economics, Labor Economics, Law and Economics
-
 ## Job Market Paper
 **When Colleges Come Closer: The Effects of Local Higher Education Expansion on Educational Outcomes in India**
 
@@ -31,4 +28,14 @@ Evaluates the causal impact of the Peer Educator initiative under the Rashtriya 
 - Annual SEEDS Conference, Georgia Tech — Atlanta, GA (2026)
 - Annual Conference of the American Society of Health Economists — Minneapolis, MN (2026)
 - Economics Seminar, John Munro Godfrey, Sr. Department of Economics, University of Georgia (2024, 2025)
+
+## Conferences Attended
+- Annual SEEDS Conference, Georgia Tech — Atlanta, GA (2025)
+- DevSouth Workshop: Development Economics in the South, University of Georgia (2025)
+- IEA–World Bank Conference on Gender Norms and Law (Virtual, 2024)
+- Annual Conference on Economic Growth and Development, Indian Statistical Institute, Delhi (2024)
+- I-85 Macroeconomics Workshop, Federal Reserve Bank of Atlanta (2023)
+
+## Research Interests
+Development Economics, Labor Economics, Law and Economics
 
