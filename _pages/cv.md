@@ -90,12 +90,12 @@ Python, Stata, R, MATLAB, Tableau, LaTeX
 
 **Laura Zimmermann**
 Associate Professor, Department of Economics and Department of International Affairs, University of Georgia
-lvzimmerm@uga.edu
+lvzimmer@uga.edu
 
 **David B. Mustard**
 Josiah Meigs Distinguished Professor, Department of Economics, University of Georgia
-dmustard@uga.edu
+mustard@uga.edu
 
 **Jim Berry**
 Associate Professor, Department of Economics, University of Georgia
-jberry@uga.edu
+jimberry@uga.edu
