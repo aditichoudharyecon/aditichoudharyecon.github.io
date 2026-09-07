@@ -5,6 +5,8 @@ permalink: /cv/
 author_profile: true
 ---
 
+[**Download CV (PDF)**](/files/CV_Aditi_UGA.pdf)
+
 ## Education
 
 - **Ph.D. in Economics**, University of Georgia, Athens, GA (Expected 2027)
@@ -54,8 +56,13 @@ Development Economics &middot; Labor Economics &middot; Law and Economics
 
 ## Professional Experience
 
-- Graduate Research Assistant to Dr. Laura Zimmermann, University of Georgia (2024)
-- Researcher, Institute for Competitiveness, India (2019–2020)
+**Graduate Research Assistant:** Dr. Laura Zimmermann, University of Georgia (2024)
+
+**Researcher:** Institute for Competitiveness, India (2019–2020). Conducted quantitative policy research and authored policy notes and white papers.
+
+**Op-Ed:** "Budget 2020: The Need for Gender Budgeting," *The Economic Times* (2020)
+
+**Affiliations:** Mentee, Association for Mentoring and Inclusion in Economics (AMIE), Cohort 2025–2026
 
 ---
 
@@ -83,7 +90,7 @@ Python, Stata, R, MATLAB, Tableau, LaTeX
 
 **Laura Zimmermann**
 Associate Professor, Department of Economics and Department of International Affairs, University of Georgia
-lzimmerm@uga.edu
+lvzimmerm@uga.edu
 
 **David B. Mustard**
 Josiah Meigs Distinguished Professor, Department of Economics, University of Georgia
