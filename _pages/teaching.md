@@ -4,7 +4,6 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-
 ## Instructor of Record
 - **ECON 2106: Principles of Microeconomics**, University of Georgia (2025) — <a href="/files/Aditi_Econ_2106_Syllabus.pdf" target="_blank">Syllabus</a> <a href="/files/Student_Evaluations_Summary.pdf" target="_blank">Teaching Evaluations</a>
 
@@ -15,9 +14,10 @@ author_profile: true
 - **ECON 4010: Intermediate Microeconomics**, University of Georgia (2023)
 - **ECON 2106: Principles of Microeconomics**, University of Georgia (2023)
 - **ECON 230D2: Microeconomic Theory**, McGill University (2018)
-- 
-**Outstanding Teaching Assistant Award**, Center for Teaching and Learning, University of Georgia (2025–26)
-  
+
+## Awards & Recognition
+- **Outstanding Teaching Assistant Award**, Center for Teaching and Learning, University of Georgia (2025–26)
+
 ## Student Feedback
 > "She is patient with students and is happy to help them solve problems during office hours."
 
