@@ -21,14 +21,38 @@ India has experienced rapid growth in higher education over the past two decades
 ---
 
 ## Working Papers
+**"Impact of Sexual and Reproductive Health Education on Adolescent Well-being"** [[PDF]](/files/AditiC_SRH_Adolescent_Wellbeing1.pdf)
+This paper evaluates the causal impact of the Peer Educator initiative under the Rashtriya
+Kishor Swasthya Karyakram (RKSK) on adolescents’ knowledge of HIV, teenage pregnancy,
+and attitudes toward gender-based violence in India. Implemented in selected High Priority
+Districts (HPDs) across each state, the program allows for a quasi-experimental analysis us-
+ing a difference-in-differences framework. The results indicate that the program significantly
+increased HIV awareness by 11.7 percentage points and the use of modern contraception by
+2.33 percentage points. However, it did not lead to significant improvements in comprehen-
+sive knowledge of HIV or attitudes toward gender-based violence.
 
-**"Impact of Sexual and Reproductive Health Education on Adolescent Well-being"**
-
----
+(JEL I18, J13, J16, O15)
 
 ## Work in Progress
 
 **"How Common are Romeos and Juliets? Evidence from Indian Court Cases"** *(with Laura Zimmermann)*
+We study how the design of sexual assault law shapes the composition of the cases
+that courts process. Using a large language model and a codebook validated against
+human coding, we classify the near-universe of Delhi High Court sexual assault judg-
+ments from 2006 to 2023. About one fifth of cases involve consensual relationships,
+elopements or disputed promises of marriage, and parents rather than the woman are
+the complainants of record in over a third. Both patterns strengthen markedly under
+the related abduction provision. Where the woman herself describes the relationship
+as consensual, a family member filed the case in 62 percent of instances. Long adjudi-
+cation delays also let us compare cases governed by the same law but decided before
+and after 2013, when a high-profile case triggered a major reform and intense public
+scrutiny of the courts. Perhaps surprisingly, courts became more skeptical rather than
+more punitive where they had room for judgment: acquittals and expressed doubt
+rose sharply in consent-based cases, while age-based cases, where the law leaves no
+discretion, were unchanged.
+Keywords: crime, criminal law, court cases, measurement, India, sexual assault, cultural
+norms
+JEL: Codes: D63, J12, J16, K14, K42
 
 **"Labor Law Changes and Their Effect on Women's Work in India"**
 
