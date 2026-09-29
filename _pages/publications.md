@@ -22,6 +22,7 @@ India has experienced rapid growth in higher education over the past two decades
 
 ## Working Papers
 **"Impact of Sexual and Reproductive Health Education on Adolescent Well-being"** [[PDF]](/files/AditiC_SRH_Adolescent_Wellbeing1.pdf)
+
 This paper evaluates the causal impact of the Peer Educator initiative under the Rashtriya
 Kishor Swasthya Karyakram (RKSK) on adolescents’ knowledge of HIV, teenage pregnancy,
 and attitudes toward gender-based violence in India. Implemented in selected High Priority
