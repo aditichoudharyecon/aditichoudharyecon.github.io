@@ -69,11 +69,11 @@ Keywords: crime, criminal law, court cases, measurement, India, sexual assault, 
 JEL Codes: D63, J12, J16, K14, K42
 {: .paper-meta}
 
-**"Labor Law Changes and Their Effect on Women's Work in India"**
 
 ---
 
 ## Other Papers
+**"Labor Law Changes and Their Effect on Women's Work in India" (Work in Progress) 
 
 **"National Lok Adalat: Solution for Clearing Backlogs in Subordinate Courts of India?"**
 Master's Paper, McGill University, 2018 — *Advisor: Prof. Matthieu Chemin*
