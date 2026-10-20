@@ -38,6 +38,12 @@ Development Economics &middot; Labor Economics &middot; Law and Economics
 India has experienced rapid growth in higher education over the past two decades. However, access remains uneven across regions. This paper examines whether expanding local college access improves students' educational outcomes. I study the impact of Model Degree Colleges established under Rashtriya Uchchatar Shiksha Abhiyan (RUSA), a higher education reform program launched in 2013 to expand access in underserved areas. The program targeted Educationally Backward Districts (EBDs) with low college availability, low female enrollment, and high shares of marginalized populations. Using Periodic Labour Force Survey (PLFS) data from 2017 to 2023, I exploit variation in the timing of college establishment across districts and estimate the effects using a staggered difference-in-differences design. I find that opening a Model Degree College increases educational attainment. Years of formal education increase by 0.63 years for individuals who were 18 when the college opened, with the gains driven by men, while women show positive but statistically insignificant effects. The effects are also larger among individuals from Scheduled Caste and Scheduled Tribe (SC/ST) groups, who gain 0.88 years, and Other Backward Class (OBC) groups, who gain 0.84 years. I also find suggestive evidence that college opening increases graduation and delays marriage among younger women.
 {: .abstract}
 
+Keywords: higher education, India, human capital
+{: .paper-meta}
+
+JEL Codes: I23, I26, H52
+{: .paper-meta}
+
 
 ---
 
