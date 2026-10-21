@@ -19,9 +19,19 @@ author_profile: true
     margin-top: 0;
     margin-bottom: 0.3em;
   }
+  /* Conference list: each entry on a single line */
+  .page__content .conf-list li {
+    white-space: nowrap;
+    font-size: 0.85em;
+    margin-bottom: 0.25em;
+  }
+  .page__content .conf-list {
+    overflow-x: auto;
+  }
   /* Narrow phone screens: left-align to avoid large gaps between words */
   @media (max-width: 480px) {
     .page__content .abstract { text-align: left; }
+    .page__content .conf-list li { white-space: normal; }
   }
 </style>
 
@@ -72,13 +82,11 @@ Keywords: crime, criminal law, court cases, measurement, India, sexual assault, 
 JEL Codes: D63, J12, J16, K14, K42
 {: .paper-meta}
 
-
+**"Labor Law Changes and Their Effect on Women's Work in India"**
 
 ---
 
 ## Other Papers
-
-**"Labor Law Changes and Their Effect on Women's Work in India"**
 
 **"National Lok Adalat: Solution for Clearing Backlogs in Subordinate Courts of India?"**
 Master's Paper, McGill University, 2018 — *Advisor: Prof. Matthieu Chemin*
@@ -92,3 +100,4 @@ Master's Paper, McGill University, 2018 — *Advisor: Prof. Matthieu Chemin*
 - Annual SEEDS Conference, Georgia Tech — Atlanta, GA (2026)
 - Annual Conference of the American Society of Health Economists — Minneapolis, MN (2026)
 - Economics Seminar, John Munro Godfrey, Sr. Department of Economics, University of Georgia (2024, 2025)
+{: .conf-list}
