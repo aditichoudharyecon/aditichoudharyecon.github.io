@@ -53,7 +53,10 @@ JEL Codes: I23, I26, H52
 This paper evaluates the causal impact of the Peer Educator initiative under the Rashtriya Kishor Swasthya Karyakram (RKSK) on adolescents’ knowledge of HIV, teenage pregnancy, and attitudes toward gender-based violence in India. Implemented in selected High Priority Districts (HPDs) across each state, the program allows for a quasi-experimental analysis using a difference-in-differences framework. The results indicate that the program significantly increased HIV awareness by 11.7 percentage points and the use of modern contraception by 2.33 percentage points. However, it did not lead to significant improvements in comprehensive knowledge of HIV or attitudes toward gender-based violence.
 {: .abstract}
 
-(JEL I18, J13, J16, O15)
+Keywords: adolescent health, sexual and reproductive health education, HIV awareness, gender-based violence, India
+{: .paper-meta}
+
+JEL Codes: I18, J13, J16, O15
 {: .paper-meta}
 
 ## Work in Progress
@@ -69,11 +72,11 @@ Keywords: crime, criminal law, court cases, measurement, India, sexual assault, 
 JEL Codes: D63, J12, J16, K14, K42
 {: .paper-meta}
 
+**"Labor Law Changes and Their Effect on Women's Work in India"**
 
 ---
 
 ## Other Papers
-**"Labor Law Changes and Their Effect on Women's Work in India" (Work in Progress) 
 
 **"National Lok Adalat: Solution for Clearing Backlogs in Subordinate Courts of India?"**
 Master's Paper, McGill University, 2018 — *Advisor: Prof. Matthieu Chemin*
